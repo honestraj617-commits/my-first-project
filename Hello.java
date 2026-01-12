@@ -1,9 +1,11 @@
-<<<<<<< HEAD
+
 
 public class Hello {
     public static void main(String[] args) {
        
-        System.out.println("Hello world these my first practice code in Github");
+        int a = 10 ; 
+        int b = 50 ;
+        system.out.println(a+b);
         
         
     }
